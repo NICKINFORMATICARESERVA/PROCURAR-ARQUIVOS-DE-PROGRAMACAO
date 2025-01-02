@@ -1,0 +1,5 @@
+procedure Sum1Plus1() returns (result: int)
+{
+    result := 1 + 1;
+    assert result == 2;
+}
